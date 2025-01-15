@@ -83,7 +83,7 @@ items:
   assemblies:
   - Assignment
   namespace: Assignment
-  summary: Initializes a new instance of the TriangleDrawer class.
+  summary: Executes the command to draw a triangle on the canvas.
   example: []
   syntax:
     content: public AppTriangle()
@@ -110,11 +110,11 @@ items:
       repo: https://github.com/ASE-Classroom/ase-demo-assignment-SushanBhandari.git
     id: Execute
     path: ../Assignmnet/AppTriangle.cs
-    startLine: 25
+    startLine: 24
   assemblies:
   - Assignment
   namespace: Assignment
-  summary: Executes the command to draw a triangle on the canvas.
+  summary: Initializes a new instance of the  class.
   example: []
   syntax:
     content: public override void Execute()
@@ -139,7 +139,7 @@ items:
       repo: https://github.com/ASE-Classroom/ase-demo-assignment-SushanBhandari.git
     id: CheckParameters
     path: ../Assignmnet/AppTriangle.cs
-    startLine: 71
+    startLine: 70
   assemblies:
   - Assignment
   namespace: Assignment

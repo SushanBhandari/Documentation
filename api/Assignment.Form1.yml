@@ -584,7 +584,7 @@ items:
   assemblies:
   - Assignment
   namespace: Assignment
-  summary: Initializes a new instance of the MainForm class.
+  summary: Initializes a new instance of the class.
   example: []
   syntax:
     content: public Form1()
