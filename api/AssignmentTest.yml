@@ -1,0 +1,65 @@
+### YamlMime:ManagedReference
+items:
+- uid: AssignmentTest
+  commentId: N:AssignmentTest
+  id: AssignmentTest
+  children:
+  - AssignmentTest.AppArrayTest
+  - AssignmentTest.AppCanvasTes
+  - AssignmentTest.AppForTest
+  - AssignmentTest.AppIfTest
+  - AssignmentTest.AppIntTest
+  - AssignmentTest.AppRealTest
+  - AssignmentTest.AppWhileTest
+  langs:
+  - csharp
+  - vb
+  name: AssignmentTest
+  nameWithType: AssignmentTest
+  fullName: AssignmentTest
+  type: Namespace
+  assemblies:
+  - AssignmentTest
+references:
+- uid: AssignmentTest.AppArrayTest
+  commentId: T:AssignmentTest.AppArrayTest
+  href: AssignmentTest.AppArrayTest.html
+  name: AppArrayTest
+  nameWithType: AppArrayTest
+  fullName: AssignmentTest.AppArrayTest
+- uid: AssignmentTest.AppCanvasTes
+  commentId: T:AssignmentTest.AppCanvasTes
+  href: AssignmentTest.AppCanvasTes.html
+  name: AppCanvasTes
+  nameWithType: AppCanvasTes
+  fullName: AssignmentTest.AppCanvasTes
+- uid: AssignmentTest.AppForTest
+  commentId: T:AssignmentTest.AppForTest
+  href: AssignmentTest.AppForTest.html
+  name: AppForTest
+  nameWithType: AppForTest
+  fullName: AssignmentTest.AppForTest
+- uid: AssignmentTest.AppIfTest
+  commentId: T:AssignmentTest.AppIfTest
+  href: AssignmentTest.AppIfTest.html
+  name: AppIfTest
+  nameWithType: AppIfTest
+  fullName: AssignmentTest.AppIfTest
+- uid: AssignmentTest.AppIntTest
+  commentId: T:AssignmentTest.AppIntTest
+  href: AssignmentTest.AppIntTest.html
+  name: AppIntTest
+  nameWithType: AppIntTest
+  fullName: AssignmentTest.AppIntTest
+- uid: AssignmentTest.AppRealTest
+  commentId: T:AssignmentTest.AppRealTest
+  href: AssignmentTest.AppRealTest.html
+  name: AppRealTest
+  nameWithType: AppRealTest
+  fullName: AssignmentTest.AppRealTest
+- uid: AssignmentTest.AppWhileTest
+  commentId: T:AssignmentTest.AppWhileTest
+  href: AssignmentTest.AppWhileTest.html
+  name: AppWhileTest
+  nameWithType: AppWhileTest
+  fullName: AssignmentTest.AppWhileTest

@@ -1,0 +1,30 @@
+### YamlMime:ManagedReference
+items:
+- uid: WebAppBoose.Controllers
+  commentId: N:WebAppBoose.Controllers
+  id: WebAppBoose.Controllers
+  children:
+  - WebAppBoose.Controllers.CanvasController
+  - WebAppBoose.Controllers.HomeController
+  langs:
+  - csharp
+  - vb
+  name: WebAppBoose.Controllers
+  nameWithType: WebAppBoose.Controllers
+  fullName: WebAppBoose.Controllers
+  type: Namespace
+  assemblies:
+  - WebAppBoose
+references:
+- uid: WebAppBoose.Controllers.CanvasController
+  commentId: T:WebAppBoose.Controllers.CanvasController
+  href: WebAppBoose.Controllers.CanvasController.html
+  name: CanvasController
+  nameWithType: CanvasController
+  fullName: WebAppBoose.Controllers.CanvasController
+- uid: WebAppBoose.Controllers.HomeController
+  commentId: T:WebAppBoose.Controllers.HomeController
+  href: WebAppBoose.Controllers.HomeController.html
+  name: HomeController
+  nameWithType: HomeController
+  fullName: WebAppBoose.Controllers.HomeController
